@@ -25,7 +25,9 @@ namespace ExpenseTracker.Core.Constants
             new Color("Yellow",
                 "#F59F00"),
             new Color("Lime",
-                "#74b816")
+                "#74b816"),
+            new Color("Lime1",
+                "#74b813")
         };
 
         public record Color(string name, string hexValue)
